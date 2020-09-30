@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "HRMES-MOPGA"
 title_separator          : "-"
 name                     : &name "HRMES"
 description              : &description "a Make Our Planet Great Again project"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "High Resolution Modeling of Earth System"
+  name             : "HRMES: High Resolution Modeling of Earth System"
   avatar           : "HRMES_3.jpg"
   bio              : "a Make Our Planet Great Again project"
   location         : "Institut Pierre Simon Laplace"
