@@ -1,13 +1,14 @@
 ---
-title: "Top of page"
+title: "Charney's ladder"
 collection: publications
-permalink: /publication/9999-topofpage
+permalink: /publication/2020-rsta
 excerpt:
-date: 9999-12-31
-venue:
+date: 2020-12-31
+venue: RSTA
 paperurl:
 citation:
 ---
 
-* [Balaji at GFDL](https://www.gfdl.noaa.gov/bibliography/results.php?author=1115)
-* [Balaji on Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=00VsoMEAAAAJ&amp;sortby=pubdate)
+Since the dawn of the computer era, we have made tremendous progress in our ability to understand and simulate the Earth system. This has been made possible by accumulation of detail, in resolution and complexity. As computing reaches certain physical limits, we are revisiting this approach using machine learning. Learning algorithms may let us derive simpler models that emulate complex ones, and deepen our understanding of the Earth system.
+
+[Climbing down Charney's ladder: Machine Learning and the post-Dennard era of computational climate science](https://arxiv.org/abs/2005.11862), accepted in <i>Phil. Trans. Roy. Soc. A</i>, 2020.
