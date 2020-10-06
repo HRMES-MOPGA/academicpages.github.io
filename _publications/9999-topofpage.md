@@ -3,7 +3,7 @@ title: "Top of page"
 collection: publications
 permalink: /publication/9999-topofpage
 excerpt:
-date:
+date: 9999-12-31
 venue:
 paperurl:
 citation:
