@@ -8,7 +8,7 @@ The role of mesoscale eddies is crucial for ocean circulation and its energy bud
 
 The important mesoscale processes, which can not be captured by satellite and are not well represented by numerical models that do not have eddy resolution, can now be provided by machine learning methods. A deep neural network is used to represent all subgrid atmospheric processes in a climate model and successively replaces traditional subgrid parameterizations in a global general circulation model [Rasp et al., 2018].
 
-Source data: eNATL60 simulation courtesy Julien Le Sommer and Aurélie Albert, Grenoble and Ocean Next Consortium.
+Source data: eNATL60 simulation courtesy Julien Le Sommer and Aurélie Albert, Université de Grenoble and Ocean Next Consortium.
 
 <iframe src="https://player.vimeo.com/video/300943265" width="640" height="362" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/300943265">Current speed in eNATL60 simulation with explicit tidal motion.</a> from <a href="https://vimeo.com/oceannext">Ocean Next</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
