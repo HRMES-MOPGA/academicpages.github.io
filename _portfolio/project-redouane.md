@@ -1,0 +1,12 @@
+---
+title: "Earth System Model Calibration using Machine Learning"
+excerpt: "Project of Redouane Lguensat, MOPGA Postdoc 16 March 2020 -- present, CEA/LSCE/LOCEAN"
+collection: portfolio
+---
+
+The calibration or "tuning" of Earth system models (ESMs) is a long standing problem [Hourdin et al 2017] of central interest to Project Hermès. The broad outline of the Earth system modeling problem is as follows: the Earth system is composed of two complex major fluid systems, atmosphere and ocean, whose basics can be described by classical fluid dynamics. Complications arise because there are many other aspects of the Earth system that influence these fluid media: these include solar radiation interacting with radiatively active chemicals, marine and terrestrial ecosystems, and the thermodynamics of multi-phase fluids like water. Modeling this system is a complex interplay of fundamental physical theory and ad-hoc empirical modeling, informed by observations from a variety of sources, including in-situ and remote sensing.
+
+One application of ML is in building emulators (also called surrogate models, metamodels, etc) that allows us to explore the sensitivity of the model to its parameters, which is prohibitively expensive using comprehensive ESMs. The calibration process involves varying the parameters to find a region of parameter space that fits the observations first at a process level (i.e within observational constraints on a particular climate process), and second at a global level (e.g global radiative balance). The processes also contain a range of intrinsic timescales, ranging from the "fast" (minutes to hours) processes associated with clouds, for example, and the "slow" (months to millennia) ones associated with the ocean circulation.
+
+In Project Hermès we are building on the work done by the ANR-funded project High Tune, which uses the "history matching" method of [Williamson et al (2013)] to rule out _implausible_ regions of phase space, by comparing an atmospheric model against large-eddy simulations (LES), [Couvreux et al 2020, Hourdin et al 2020]. In close collaboration with the High Tune project, we are exploring how the method will work when there are many intrinsic timescales involved. The first step is to test history matching in a highly-idealized models with a "slow" and "fast" component [Lorenz (1996)]. The next step will be to apply these lessons to the full NEMO ocean model, using high-resolution simulations made under the PRACE project QUEST as reference data.
+
