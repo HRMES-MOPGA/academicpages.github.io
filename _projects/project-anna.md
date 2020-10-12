@@ -1,5 +1,5 @@
 ---
-title: "Improved representation of mesoscale processes using Machine Learning"
+title: "Improved representation of ocean mesoscale turbulence using Machine Learning"
 excerpt: "Project of Anna Sommer, MOPGA Postdoc 09/05/2019-31/12/2019, CEA/LSCE/LOCEAN"
 collection: portfolio
 ---
