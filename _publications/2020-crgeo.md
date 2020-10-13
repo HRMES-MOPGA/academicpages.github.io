@@ -1,5 +1,5 @@
 ---
-title: "Sciences des données versus science physique"
+title: "Sciences des données versus science physique: la technologie des données nous conduit-elle vers une nouvelle synthèse?"
 collection: publications
 permalink: /publication/2020-crgeo
 excerpt:
