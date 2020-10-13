@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Project Hermès"
-excerpt: "About me"
+excerpt: "About MOPGA Project Hermès"
 author_profile: true
 redirect_from: 
   - /about/
