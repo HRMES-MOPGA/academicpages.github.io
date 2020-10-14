@@ -11,6 +11,7 @@ His research interests are Data assimilation, physically constrained deep learni
 <div><a style="vertical-align: top" href="https://orcid.org/0000-0003-0226-9057" target="orcid.widget" rel="noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID icon" />orcid.org/0000-0003-0226-9057</a></div>
 
 <h3>Select bibliography</h3>
+
 * Redouane Lguensat, Julien Le Sommer, Ronan Fablet, Sammy Metref, Emmanuel Cosme. **Learning Generalized Quasi-Geostrophic Models Using Deep Neural Numerical Models** Machine Learning and the Physical Sciences workshop, NeurIPS 2019. Vancouver, Canada. [Arxiv](https://arxiv.org/abs/1911.08856), [code](https://github.com/redouanelg/qgsw-DI/tree/master/QGNET)
 * Redouane Lguensat, Pierre Tandeo, Pierre Ailliot, Manuel Pulido and Ronan Fablet. **The Analog Data Assimilation**. Monthly Weather Review, 2017, vol. 145, no 10, p. 4093-4107. [journal webpage](http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-16-0441.1)
 * Redouane Lguensat, Miao Sun, Ronan Fablet, Evan Mason, Pierre Tandeo, Ge Chen. **EddyNet: A Deep Neural Network For Pixel-Wise Classification of Oceanic Eddies**. IEEE Geoscience and Remote Sensing Symposium (IGARSS) 2018, Valencia, Spain. [IEEExplore link](https://ieeexplore.ieee.org/document/8518411). [pdf](https://arxiv.org/abs/1711.03954)
