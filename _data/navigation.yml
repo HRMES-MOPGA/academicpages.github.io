@@ -8,14 +8,14 @@ main:
     
   - title: "Talks"
     url: /talks/      
+
+  - title: "Activities"
+    url: /activities/
         
   - title: "Blog"
     url: /year-archive/
     
   - title: "People"
     url: /people/
-
-  - title: "Activities"
-    url: /activities/
  # - title: "Guide"
  #  url: /markdown/
