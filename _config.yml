@@ -193,6 +193,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  activities:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -268,7 +271,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _activities
+  - scope:
+      path: ""
+      type: activities
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
