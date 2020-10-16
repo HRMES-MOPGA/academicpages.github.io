@@ -1,6 +1,6 @@
 ---
 title: "The Climate Informatics Hackathon 2020"
-excerpt: ""
+excerpt: "Organization of the Hackathon"
 collection: activities
 ---
 
