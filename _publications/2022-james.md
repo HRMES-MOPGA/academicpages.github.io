@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-james
 excerpt:
 date: 2022-08-18
-venue: JAMES
+venue: arXiv
 paperurl:
 citation:
 ---
