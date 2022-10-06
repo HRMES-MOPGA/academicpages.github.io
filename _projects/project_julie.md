@@ -16,6 +16,6 @@ In addition, acceleration of spinup generates a variety of admissible accelerate
 
 To know more about this project, visit ![https://github.com/Maison-de-la-Simulation/hrmes](https://github.com/Maison-de-la-Simulation/hrmes) : this repository includes ![a Concept note that includes results](https://github.com/Maison-de-la-Simulation/hrmes/blob/master/concept/concept.md), ![Meeting notes (in French)](https://github.com/Maison-de-la-Simulation/hrmes/blob/master/Meetings/meeting.md), and all codes...
 
-Fore more information, email ![Julie Deshayes](https://juliedeshayes.github.io/).
+Fore more information, contact ![Julie Deshayes](https://juliedeshayes.github.io/).
 
 
