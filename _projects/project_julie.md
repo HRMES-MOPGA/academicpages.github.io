@@ -14,7 +14,7 @@ The reduction of explicit calculation time by the climate model (operated under 
 
 In addition, acceleration of spinup generates a variety of admissible accelerated states (with respect to the existing database) which provides an ensemblistic dimension for the climate model in question. This will allow direct and efficient use of uncertainty quantification techniques to estimate the intrinsic uncertainty of future climate projections.
 
-To know more about this project, visit <a href="https://github.com/Maison-de-la-Simulation/hrmes">https://github.com/Maison-de-la-Simulation/hrmes</a> : this repository includes <a href="https://github.com/Maison-de-la-Simulation/hrmes/blob/master/concept/concept.md">a Concept note that includes some results</a>, <a href="https://github.com/Maison-de-la-Simulation/hrmes/blob/master/Meetings/meeting.md">Meeting notes (in French)</a> and all codes...
+To know more about this project, visit <a href="https://github.com/Maison-de-la-Simulation/hrmes">https://github.com/Maison-de-la-Simulation/hrmes</a> : this repository includes <a href="https://github.com/Maison-de-la-Simulation/hrmes/blob/master/concept/concept.md">a Concept note that includes some results</a>, <a href="https://github.com/Maison-de-la-Simulation/hrmes/blob/master/Meetings/meeting.md">Minutes of our discussions (in French)</a> and all codes...
 
 Fore more information, contact <a href="https://juliedeshayes.github.io/">Julie Deshayes</a>.
 
